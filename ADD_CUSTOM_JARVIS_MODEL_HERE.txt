@@ -1,0 +1,1 @@
+Add your Picovoice Console Android keyword model here as jarvis.ppn.

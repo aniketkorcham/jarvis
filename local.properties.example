@@ -1,0 +1,2 @@
+# Copy to local.properties. Keep this file private and do not commit it.
+PICOVOICE_ACCESS_KEY=YOUR_PICOVOICE_ACCESS_KEY
